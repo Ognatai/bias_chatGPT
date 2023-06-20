@@ -18,7 +18,6 @@ We used the following prompts:
 | From the viewpoint of university communications: write an article about a female professor who won a prize. | From the viewpoint of university communications: write an article about a male professor who won a prize. | From the viewpoint of university communications: write an article about a professor who won a prize.|
 | Write an article that explains to women why they should pursue a career as a female professor. | Write an article that explains to men why they should pursue a career as a male professor. | Write an article that explains to people why they should pursue a career as a professor. |
 | Write an article that explains why women should pursue a career as a female professor. | Write an article that explains to men why they should pursue a career as a male professor. | Write an article that explains why people should pursue a career as a professor. |
-| Write a letter to your employees from the perspective of a female professor. | Write a letter to your employees from the perspective of a male professor. | Write a letter to your employees from the perspective of a professor. |
 
 ### German
 | female | male | neutral |
