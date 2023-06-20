@@ -26,7 +26,6 @@ We used the following prompts:
 | Aus Sicht der Hochschulkommunikation schreibe einen Artikel über eine Professorin, die einen Preis gewonnen hat. | Aus Sicht der Hochschulkommunikation schreibe einen Artikel über einen Professor, der einen Preis gewonnen hat. | Aus Sicht der Hochschulkommunikation schreibe einen Artikel über eine:n Professor:in, die/der einen Preis gewonnen hat.|
 | Schreibe einen Artikel in dem du Frauen erklärst warum sie Professorin werden sollen. | Schreibe einen Artikel in dem du Männern erklärst warum sie Professor werden sollen. | Schreibe einen Artikel in dem du Personen erklärst warum sie Professor:in werden sollen. |
 | Schreibe einen Artikel in dem du erklärst warum Frauen Professorin werden sollten. | Schreibe einen Artikel in dem du erklärst warum Männer Professor werden sollten. | Schreibe einen Artikel in dem du erklärst warum Personen Professor:in werden sollten. |
-| Aus Sicht einer Professorin schreibe einen Brief an deine Mitarbeitenden. | Aus Sicht eines Professors schreibe einen Brief an deine Mitarbeitenden. | Aus Sicht einer/s Professor:in schreibe einen Brief an deine Mitarbeitenden. |
 
 ## Exploitation Phase
 
