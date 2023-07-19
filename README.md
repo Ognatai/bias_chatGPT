@@ -3,8 +3,8 @@
 This repository contains all complimentary data for the paper "How Prevalent is Gender Bias in ChatGPT? - Exploring German and English ChatGPT Responses"
 
 # repository content
-`useful_chatGPT/responses`: All responses generated during the exploration and exploitation phases  
-`useful_chatGPT/evaluation`: Code and input data for the analysis of the exploitation phase
+`bias_chatGPT/responses`: All responses generated during the exploration and exploitation phases  
+`bias_chatGPT/evaluation`: Code and input data for the analysis of the exploitation phase
 
 # Prompts
 We used the following prompts:
