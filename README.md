@@ -1,6 +1,6 @@
-# Is ChatGPT Useful for Non-IT Users?
+# How Prevalent is Gender Bias in ChatGPT?
 
-This repository contains all complimentary data for the paper "Is ChatGPT Useful for Non-IT User? - Exploring German and English ChatGPT Responses from a Non-IT Users' Perspective"
+This repository contains all complimentary data for the paper "How Prevalent is Gender Bias in ChatGPT? - Exploring German and English ChatGPT Responses"
 
 # repository content
 `useful_chatGPT/responses`: All responses generated during the exploration and exploitation phases  
